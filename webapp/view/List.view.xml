@@ -23,14 +23,6 @@
                     </ColumnListItem>
                 </items>
             </Table>
-
-            <!-- 
-            <List headerText="" items="{/UX_C_Carrier_TP}">
-                <items>
-                    <StandardListItem title="{Carrname}" description="{Carrid}" type="Navigation" press="onListItemPressed" />
-                </items>
-            </List>
-            -->
         </content>
     </Page>
 </mvc:View>
