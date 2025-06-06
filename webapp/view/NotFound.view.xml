@@ -1,0 +1,5 @@
+<mvc:View controllerName="student00.com.sap.training.ux402.listdetail.ux402listdetail.controller.NotFound"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <MessagePage showHeader="false" description="Nichts gefunden" icon="sap-icon://filter"/>
+</mvc:View>

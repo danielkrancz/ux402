@@ -1,0 +1,55 @@
+<mvc:View controllerName="student00.com.sap.training.ux402.listdetail.ux402listdetail.controller.Detail"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m" xmlns:f="sap.f" xmlns:cust="student00.com.sap.training.ux402.listdetail.ux402listdetail.control">
+
+<Page id="page" title="Details">
+        <content>
+		<VBox>
+		<ObjectHeader title="{Carrname}" titleHref="{Url}" number="" numberUnit="{Currcode}">
+			<attributes>
+				<ObjectAttribute text="{Carrid}"></ObjectAttribute>
+				<ObjectAttribute text="{Url}"></ObjectAttribute>
+			</attributes>
+		</ObjectHeader>
+	<Table headerText="Flights" items="{to_Flight}" growing="true" growingThreshold="10">
+                                <columns>
+                                    <Column>
+                                        <Text text="Number"/>
+                                    </Column>
+                                    <Column>
+                                        <Text text="Flight date"/>
+                                    </Column>
+                                    <Column>
+                                        <Text text="Seats max."/>
+                                    </Column>
+									<Column>
+                                        <Text text="Seats occ."/>
+                                    </Column>
+                                    <Column>
+                                        <Text text="Action"/>
+                                    </Column>
+                                    <Column>
+                                        <Text text="Plane Infos"/>
+                                    </Column>
+                                </columns>
+                                <items>
+                                    <ColumnListItem > <!-- highlight="{= ${Seatsmax} - ${Seatsocc} > 50 ? 'Success' : 'Error' }" -->
+                                        <cells>
+                                            <Text text="{Connid}"/>
+                                            <Text text="{ path: 'Fldate', type: 'sap.ui.model.odata.type.Date' }"/>
+                                            <Text text="{Seatsmax}"/>
+                                            <Text text="{Seatsocc}"/>
+                                            <cust:HoverButton id="hoverButton1" text="Book flight" allowHover="true" hoverText="{= ${Seatsmax} - ${Seatsocc} }" hover="onHover" press="onHoverPressed" />
+                                            <cust:PlaneInfo seatsMax="{Seatsmax}" seatsOcc="{Seatsocc}"/>
+                                        </cells>
+                                    </ColumnListItem>
+                                </items>
+                            </Table>
+		</VBox>
+							
+
+    
+            
+        </content>
+    </Page>
+</mvc:View>

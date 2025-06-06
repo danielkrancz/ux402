@@ -1,0 +1,202 @@
+[
+    {
+        "Carrid": "Ilu",
+        "Connid": "RLww",
+        "Cityfrom": "Cityfrom1",
+        "Airpfrom": "Ai1",
+        "Cityto": "Cityto1",
+        "Airpto": "Ai1",
+        "Deptime": "PT01H42M27S",
+        "Arrtime": "PT14H16M19S"
+    },
+    {
+        "Carrid": "tIj",
+        "Connid": "JrRO",
+        "Cityfrom": "Cityfrom2",
+        "Airpfrom": "Ai2",
+        "Cityto": "Cityto2",
+        "Airpto": "Ai2",
+        "Deptime": "PT20H54M54S",
+        "Arrtime": "PT22H48M24S"
+    },
+    {
+        "Carrid": "Ebu",
+        "Connid": "hvla",
+        "Cityfrom": "Cityfrom3",
+        "Airpfrom": "Ai3",
+        "Cityto": "Cityto3",
+        "Airpto": "Ai3",
+        "Deptime": "PT11H31M21S",
+        "Arrtime": "PT10H19M02S"
+    },
+    {
+        "Carrid": "vpU",
+        "Connid": "hPZU",
+        "Cityfrom": "Cityfrom4",
+        "Airpfrom": "Ai4",
+        "Cityto": "Cityto4",
+        "Airpto": "Ai4",
+        "Deptime": "PT09H01M35S",
+        "Arrtime": "PT20H28M38S"
+    },
+    {
+        "Carrid": "zqs",
+        "Connid": "Yrfo",
+        "Cityfrom": "Cityfrom5",
+        "Airpfrom": "Ai5",
+        "Cityto": "Cityto5",
+        "Airpto": "Ai5",
+        "Deptime": "PT09H36M43S",
+        "Arrtime": "PT09H54M29S"
+    },
+    {
+        "Carrid": "DmD",
+        "Connid": "HmVI",
+        "Cityfrom": "Cityfrom6",
+        "Airpfrom": "Ai6",
+        "Cityto": "Cityto6",
+        "Airpto": "Ai6",
+        "Deptime": "PT14H19M56S",
+        "Arrtime": "PT04H51M38S"
+    },
+    {
+        "Carrid": "yVW",
+        "Connid": "mmTC",
+        "Cityfrom": "Cityfrom7",
+        "Airpfrom": "Ai7",
+        "Cityto": "Cityto7",
+        "Airpto": "Ai7",
+        "Deptime": "PT10H53M25S",
+        "Arrtime": "PT09H06M46S"
+    },
+    {
+        "Carrid": "GNv",
+        "Connid": "QtIl",
+        "Cityfrom": "Cityfrom8",
+        "Airpfrom": "Ai8",
+        "Cityto": "Cityto8",
+        "Airpto": "Ai8",
+        "Deptime": "PT02H11M54S",
+        "Arrtime": "PT15H55M15S"
+    },
+    {
+        "Carrid": "mqW",
+        "Connid": "iHNc",
+        "Cityfrom": "Cityfrom9",
+        "Airpfrom": "Ai9",
+        "Cityto": "Cityto9",
+        "Airpto": "Ai9",
+        "Deptime": "PT08H09M26S",
+        "Arrtime": "PT09H25M39S"
+    },
+    {
+        "Carrid": "AXk",
+        "Connid": "Dszf",
+        "Cityfrom": "Cityfrom10",
+        "Airpfrom": "A10",
+        "Cityto": "Cityto10",
+        "Airpto": "A10",
+        "Deptime": "PT01H39M34S",
+        "Arrtime": "PT20H11M16S"
+    },
+    {
+        "Carrid": "btj",
+        "Connid": "VqBw",
+        "Cityfrom": "Cityfrom11",
+        "Airpfrom": "A11",
+        "Cityto": "Cityto11",
+        "Airpto": "A11",
+        "Deptime": "PT00H47M20S",
+        "Arrtime": "PT17H26M52S"
+    },
+    {
+        "Carrid": "zCn",
+        "Connid": "EEDW",
+        "Cityfrom": "Cityfrom12",
+        "Airpfrom": "A12",
+        "Cityto": "Cityto12",
+        "Airpto": "A12",
+        "Deptime": "PT15H01M15S",
+        "Arrtime": "PT06H30M43S"
+    },
+    {
+        "Carrid": "Ebx",
+        "Connid": "VhuV",
+        "Cityfrom": "Cityfrom13",
+        "Airpfrom": "A13",
+        "Cityto": "Cityto13",
+        "Airpto": "A13",
+        "Deptime": "PT10H28M18S",
+        "Arrtime": "PT05H46M21S"
+    },
+    {
+        "Carrid": "Ail",
+        "Connid": "joaf",
+        "Cityfrom": "Cityfrom14",
+        "Airpfrom": "A14",
+        "Cityto": "Cityto14",
+        "Airpto": "A14",
+        "Deptime": "PT08H07M07S",
+        "Arrtime": "PT01H05M24S"
+    },
+    {
+        "Carrid": "XOO",
+        "Connid": "bayj",
+        "Cityfrom": "Cityfrom15",
+        "Airpfrom": "A15",
+        "Cityto": "Cityto15",
+        "Airpto": "A15",
+        "Deptime": "PT21H01M21S",
+        "Arrtime": "PT01H28M30S"
+    },
+    {
+        "Carrid": "yPZ",
+        "Connid": "fyAX",
+        "Cityfrom": "Cityfrom16",
+        "Airpfrom": "A16",
+        "Cityto": "Cityto16",
+        "Airpto": "A16",
+        "Deptime": "PT13H40M13S",
+        "Arrtime": "PT19H08M20S"
+    },
+    {
+        "Carrid": "szS",
+        "Connid": "bbYA",
+        "Cityfrom": "Cityfrom17",
+        "Airpfrom": "A17",
+        "Cityto": "Cityto17",
+        "Airpto": "A17",
+        "Deptime": "PT08H44M50S",
+        "Arrtime": "PT00H41M19S"
+    },
+    {
+        "Carrid": "uMy",
+        "Connid": "Jdvh",
+        "Cityfrom": "Cityfrom18",
+        "Airpfrom": "A18",
+        "Cityto": "Cityto18",
+        "Airpto": "A18",
+        "Deptime": "PT06H00M24S",
+        "Arrtime": "PT04H45M34S"
+    },
+    {
+        "Carrid": "Pvl",
+        "Connid": "HCDE",
+        "Cityfrom": "Cityfrom19",
+        "Airpfrom": "A19",
+        "Cityto": "Cityto19",
+        "Airpto": "A19",
+        "Deptime": "PT08H31M46S",
+        "Arrtime": "PT05H22M41S"
+    },
+    {
+        "Carrid": "JGL",
+        "Connid": "cJrV",
+        "Cityfrom": "Cityfrom20",
+        "Airpfrom": "A20",
+        "Cityto": "Cityto20",
+        "Airpto": "A20",
+        "Deptime": "PT07H40M39S",
+        "Arrtime": "PT03H57M57S"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "Carrid": "EIv",
+        "Connid": "hpGB",
+        "Fldate": "/Date(27301572000)/",
+        "Seatsmax": 1701908971,
+        "Seatsocc": 616169072
+    },
+    {
+        "Carrid": "gjv",
+        "Connid": "QpRy",
+        "Fldate": "/Date(1411219294000)/",
+        "Seatsmax": 556050266,
+        "Seatsocc": 25120683
+    },
+    {
+        "Carrid": "Uqz",
+        "Connid": "aIGI",
+        "Fldate": "/Date(1135263768000)/",
+        "Seatsmax": 518266727,
+        "Seatsocc": 708910943
+    },
+    {
+        "Carrid": "GTf",
+        "Connid": "LLNc",
+        "Fldate": "/Date(764969262000)/",
+        "Seatsmax": 123483790,
+        "Seatsocc": 1266467502
+    },
+    {
+        "Carrid": "jta",
+        "Connid": "leMi",
+        "Fldate": "/Date(623086136000)/",
+        "Seatsmax": 134705671,
+        "Seatsocc": 1281974491
+    },
+    {
+        "Carrid": "zAK",
+        "Connid": "oRCd",
+        "Fldate": "/Date(1142764194000)/",
+        "Seatsmax": 1349008619,
+        "Seatsocc": 1316930908
+    },
+    {
+        "Carrid": "Xib",
+        "Connid": "OTyT",
+        "Fldate": "/Date(533336112000)/",
+        "Seatsmax": 1162452658,
+        "Seatsocc": 804649205
+    },
+    {
+        "Carrid": "vWf",
+        "Connid": "GoHR",
+        "Fldate": "/Date(544573297000)/",
+        "Seatsmax": 176666008,
+        "Seatsocc": 234128577
+    },
+    {
+        "Carrid": "Ixr",
+        "Connid": "TxXT",
+        "Fldate": "/Date(17458757000)/",
+        "Seatsmax": 1508839359,
+        "Seatsocc": 2098507778
+    },
+    {
+        "Carrid": "qrg",
+        "Connid": "ryCC",
+        "Fldate": "/Date(1252788981000)/",
+        "Seatsmax": 1825225691,
+        "Seatsocc": 1002252157
+    },
+    {
+        "Carrid": "qbB",
+        "Connid": "SeLP",
+        "Fldate": "/Date(1065563200000)/",
+        "Seatsmax": 2028088681,
+        "Seatsocc": 466233013
+    },
+    {
+        "Carrid": "MVC",
+        "Connid": "BlWW",
+        "Fldate": "/Date(1387434072000)/",
+        "Seatsmax": 831275969,
+        "Seatsocc": 58038200
+    },
+    {
+        "Carrid": "Eqf",
+        "Connid": "FxkT",
+        "Fldate": "/Date(801350555000)/",
+        "Seatsmax": 1855135318,
+        "Seatsocc": 1314303495
+    },
+    {
+        "Carrid": "OIF",
+        "Connid": "VSrO",
+        "Fldate": "/Date(1096046624000)/",
+        "Seatsmax": 2106643275,
+        "Seatsocc": 699508633
+    },
+    {
+        "Carrid": "gsh",
+        "Connid": "pzsN",
+        "Fldate": "/Date(1351683838000)/",
+        "Seatsmax": 1782571696,
+        "Seatsocc": 1930856213
+    },
+    {
+        "Carrid": "ExF",
+        "Connid": "rJjF",
+        "Fldate": "/Date(960408742000)/",
+        "Seatsmax": 1396075695,
+        "Seatsocc": 400421455
+    },
+    {
+        "Carrid": "rOz",
+        "Connid": "xmIH",
+        "Fldate": "/Date(1377052245000)/",
+        "Seatsmax": 26227067,
+        "Seatsocc": 804120664
+    },
+    {
+        "Carrid": "asE",
+        "Connid": "JPiK",
+        "Fldate": "/Date(1402218395000)/",
+        "Seatsmax": 238755283,
+        "Seatsocc": 1558269234
+    },
+    {
+        "Carrid": "OWi",
+        "Connid": "cbMy",
+        "Fldate": "/Date(575316893000)/",
+        "Seatsmax": 1677755449,
+        "Seatsocc": 946621033
+    },
+    {
+        "Carrid": "NTO",
+        "Connid": "VhSV",
+        "Fldate": "/Date(1280365598000)/",
+        "Seatsmax": 1571798199,
+        "Seatsocc": 1658176438
+    }
+]

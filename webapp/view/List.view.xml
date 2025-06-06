@@ -1,0 +1,35 @@
+<mvc:View controllerName="student00.com.sap.training.ux402.listdetail.ux402listdetail.controller.List"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+            <core:ExtensionPoint name="beforeTablExtension"/>
+            <Table headerText="Carriers" items="{/UX_C_Carrier_TP}">
+                <columns>
+                    <Column>
+                        <Text text="Id"/>
+                    </Column>
+                    <Column>
+                        <Text text="Name"/>
+                    </Column>
+                </columns>
+                <items>
+                    <ColumnListItem type="Navigation" press="onListItemPressed">
+                        <cells>
+                            <ObjectIdentifier text="{Carrid}"/>
+                            <Text text="{Carrname}"/>
+                        </cells>
+                    </ColumnListItem>
+                </items>
+            </Table>
+
+            <!-- 
+            <List headerText="" items="{/UX_C_Carrier_TP}">
+                <items>
+                    <StandardListItem title="{Carrname}" description="{Carrid}" type="Navigation" press="onListItemPressed" />
+                </items>
+            </List>
+            -->
+        </content>
+    </Page>
+</mvc:View>
