@@ -3,6 +3,7 @@
     xmlns="sap.m">
     <Page id="page" title="{i18n>title}">
         <content>
+            <Text text=""/>
             <core:ExtensionPoint name="beforeTablExtension"/>
             <Table headerText="Carriers" items="{/UX_C_Carrier_TP}">
                 <columns>
